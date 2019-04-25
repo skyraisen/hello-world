@@ -1,6 +1,6 @@
 # hello-world
 Learning Git
 
-Hi,
+I know absolutely nothing, much like John Snow
+Writing a bit not about myself :-)
 
-I know absolutely nothing - much like John Snow!
